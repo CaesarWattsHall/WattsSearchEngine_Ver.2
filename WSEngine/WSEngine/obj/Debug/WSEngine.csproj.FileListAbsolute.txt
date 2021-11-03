@@ -1,0 +1,10 @@
+C:\Users\JARVI\Desktop\WSEngine\WSEngine\bin\Debug\WSEngine.exe.config
+C:\Users\JARVI\Desktop\WSEngine\WSEngine\bin\Debug\WSEngine.exe
+C:\Users\JARVI\Desktop\WSEngine\WSEngine\bin\Debug\WSEngine.pdb
+C:\Users\JARVI\Desktop\WSEngine\WSEngine\obj\Debug\WSEngine.csprojAssemblyReference.cache
+C:\Users\JARVI\Desktop\WSEngine\WSEngine\obj\Debug\WSEngine.Form1.resources
+C:\Users\JARVI\Desktop\WSEngine\WSEngine\obj\Debug\WSEngine.Properties.Resources.resources
+C:\Users\JARVI\Desktop\WSEngine\WSEngine\obj\Debug\WSEngine.csproj.GenerateResource.cache
+C:\Users\JARVI\Desktop\WSEngine\WSEngine\obj\Debug\WSEngine.csproj.CoreCompileInputs.cache
+C:\Users\JARVI\Desktop\WSEngine\WSEngine\obj\Debug\WSEngine.exe
+C:\Users\JARVI\Desktop\WSEngine\WSEngine\obj\Debug\WSEngine.pdb
